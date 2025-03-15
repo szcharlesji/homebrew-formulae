@@ -1,8 +1,8 @@
 class UpdateAll < Formula
   desc "Script to update various package managers and tools"
   homepage "https://github.com/szcharlesji/update-all"
-  url "https://github.com/szcharlesji/update-all/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "5c66a11d4506d5ce1c13f68121d886705370d4692d182a49bb41dbf9288e6c83"
+  url "https://github.com/szcharlesji/update-all/archive/refs/tags/v1.1.0.tar.gz"
+  sha256 "f77c0531753289d956d90eb09ac5499598e99a8ddf0c9acd892bdaad28bb3a65"
   license "GPL-3.0-or-later"
 
   def install
